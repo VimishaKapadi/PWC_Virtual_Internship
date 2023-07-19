@@ -20,6 +20,16 @@ Possible KPIs include (to get you started, but not limited to):
 
 5. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+# Task 2: Telecom Churn and Retention Analysis Dashboard
+
+Complete the following tasks:
+
+1. Define proper KPIs
+2. Create a dashboard for the retention manager reflecting the KPIs
+3. Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
+
+# Task 2: Telecom Churn and Retention Analysis Dashboard
+
    
 
    
