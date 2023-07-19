@@ -32,6 +32,8 @@ Complete the following tasks:
 2. Create a dashboard for the retention manager reflecting the KPIs
 3. Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
 
+![Alt text](https://github.com/VimishaKapadi/PWC_Virtual_Internship/blob/main/Customer%20Risk%20Analysis.png)
+
 # Task 3: Diversity and Inclusion Dashboard
 
 Calculate the following measures for proper KPIs:
