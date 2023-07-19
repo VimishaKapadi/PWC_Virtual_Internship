@@ -49,6 +49,12 @@ Calculate the following measures for proper KPIs:
 Average performance rating: men
 Average Performance rating: women
 
+![Alt text](https://github.com/VimishaKapadi/PWC_Virtual_Internship/blob/main/Diversity%20and%20Inclusion%20Dashboard%201.png) 
+
+
+
+![Alt text](https://github.com/VimishaKapadi/PWC_Virtual_Internship/blob/main/Diversity%20and%20Inclusion%20Dashboard%202.png)
+
 
 
    
