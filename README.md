@@ -22,13 +22,15 @@ Possible KPIs include (to get you started, but not limited to):
 
 # Task 2: Telecom Churn and Retention Analysis Dashboard
 
+![Alt text](https://github.com/VimishaKapadi/PWC_Virtual_Internship/blob/main/Task%202%20Input.png)
+
 Complete the following tasks:
 
 1. Define proper KPIs
 2. Create a dashboard for the retention manager reflecting the KPIs
 3. Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
 
-# Task 2: Telecom Churn and Retention Analysis Dashboard
+# Task 3: Diversity and Inclusion Dashboard
 
    
 
